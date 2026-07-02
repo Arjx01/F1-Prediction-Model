@@ -26,8 +26,8 @@ This project pulls historical Formula 1 data via the [FastF1](https://docs.fastf
 ```
 F1-Prediction-Model/
 ├── prediction1.py      # Australian GP
-├── prediction2.py      # [next race in season order]
-├── ...                 # one script per Grand Prix
+├── prediction2.py      
+├── ...                
 ├── requirements.txt
 └── README.md
 ```
